@@ -1,0 +1,2 @@
+Metodos sem esta sendo usados, poderia ter melhor aproveitamento dos comentarios para melhorar visão, de froma não abusiva.
+Codigos extensos e juntos na mesmas classes, uma refatoração e criar novas classes para melhor organização e entendimento do codigo, alem de facilitar na correção de bugs.
